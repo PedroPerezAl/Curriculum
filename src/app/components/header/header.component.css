@@ -1,0 +1,15 @@
+.menu{
+
+    list-style: none; /*Le quita los puntos a la lista*/
+    margin: 0;
+    padding: 0;
+    display: flex; /* Coloca las opciones de manera horizontal*/
+    color: olive;
+    justify-content: center; /*Coloca el menú en el centro de la página */
+
+}
+
+.menu li{
+    margin: 10px;
+    
+}
